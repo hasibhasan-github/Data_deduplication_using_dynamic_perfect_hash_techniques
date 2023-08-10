@@ -1,0 +1,2 @@
+# Data_deduplication_using_dynamic_perfect_hash_techniques
+In Computer Science hashing is use for storing data retrieving data in constant time.On the other hand, with a huge use and collection of data, cloud storage has gained popularity among the users. In cloud storage most of the data is redundant. We are showing a mechanism for data deduplication counting using dynamic perfect hash techniques.
