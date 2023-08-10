@@ -11,13 +11,13 @@ song, research paper etc. This causes the use of cloud storage inefficient. So, 
 providers use data deduplication. Data deduplication is the process of removing duplicate data
 from the cloud storage.
 Data processing
-*Using dynamic perfect hashing for data deduplication makes the counting of
+</br>
+* Using dynamic perfect hashing for data deduplication makes the counting of
 duplicate data easier.
-*It helps to keep track of the popular unpopular data.
+* It helps to keep track of the popular unpopular data.
 * It is useful for the retrieval of data in a constant time.
 * It makes the data layer more secured in cloud storage because of the two-level
 hashing.
-</br>
 </br>
 Data deduplication using dynamic perfect hashing plays an important role in cloud storage systems by
 eliminating redundant data and reducing storage costs. It helps to optimize storage capacity, backup,
